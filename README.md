@@ -17,7 +17,7 @@ Resim: Yaşlara göre STEM çalışmaları.
 </p>
 
 
-İlkokul yaş grubundaki çocukların dünya ile entegrasyon açısından özellikle Google CS FIRST sayfasında bulunan örenekler dikkatle incelenerek düzenlenmiştir.
+İlkokul yaş grubundaki çocukların dünya ile entegrasyon açısından özellikle Google CS FIRST sayfasında bulunan örnekler dikkatle incelenerek düzenlenmiştir. Bu yaş aralığındaki çocukların heyacanları ve öğrenme istekleri beni derinden etkilemiştir.
 
 Biraz daha ileri seiyede block kodlama ile donanım uygulamaları için mBlock ve arduino seçilerek örnek uygulamalar yapılmıştır. Bu aşamada robotik kodlamaya da geçilebilir.
 
