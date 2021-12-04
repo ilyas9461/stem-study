@@ -21,7 +21,7 @@ Resim: Yaşlara göre STEM çalışmaları.
 
 Biraz daha ileri seiyede block kodlama ile donanım uygulamaları için mBlock ve arduino seçilerek örnek uygulamalar yapılmıştır. Bu aşamada robotik kodlamaya da geçilebilir.
 
-Bizim tarafımızdan geliştirilen uyuglamalar test edilimiş çalışmaktadır. Örnek olarak koyduğumuz uygulamalrın çoğu test edilmiştir. Fakat kontrol edemediklerimiz de olabilir.
+Bizim tarafımızdan geliştirilen uygulamalar test edilmiş ve çalışmaktadır. Örnek olarak koyduğumuz uygulamaların ise tamamı test edilememiştir.  
 
 Umarım ilgilenenlere faydalı olur...
 
