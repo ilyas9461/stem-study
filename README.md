@@ -11,8 +11,6 @@ The coding studies and contents we did with three different groups between the a
 
 The curricula used are open source, translated from English, rearranged to suit age groups and supported with slides.
 
-<a href="https://csfirst.withgoogle.com/s/en/home" target="_blank">Google CS First</a>
-
 <p  align="center">
 <img src="img/yaslara_gore_mufredat.png" alt="pelus" width="100%"  align="center" style="margin:10px">
 Image: STEM studies by age.
